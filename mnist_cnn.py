@@ -20,6 +20,8 @@ import numpy as np
 import os
 import torch, torchvision  # Added by Prof. KIm on 25.04.07
 
+
+#아진짜힘들다
 batch_size = 128
 num_classes = 10
 epochs = 12
